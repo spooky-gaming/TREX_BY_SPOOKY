@@ -64,7 +64,7 @@ function setup() {
   
   cloudsGroup = new Group();
   obstaclesGroup = new Group();
-  trex.debug = true
+  
   score = 0;
 }
 
